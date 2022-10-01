@@ -1,3 +1,7 @@
+#### 01-October-2022
+- revert: Add support for OAuth callback flow
+- go.mod: update dependencies
+- updated: go version v1.19
 #### 24-August-2022
 - gdrive: publish new stable version
 - go.mod: update dependencies
